@@ -20,7 +20,7 @@
 
  ### :woman_technologist: About Me :
 I am a Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
-- :telescope: I’m working as a Software Engineer and contributing to Fltter for building mobile applications.
+- :telescope: I’m working as a Software Engineer and contributing to Flutter for building mobile applications.
 
 - :zap: In my free time, I solve problems on Codeforces and read tech articles.
 
