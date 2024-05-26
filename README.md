@@ -6,7 +6,7 @@ I'm a passionate software developer with a love for creating innovative solution
 #### 🔧 Technologies & Tools
 ![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart&logoColor=0175C2)
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Python](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
