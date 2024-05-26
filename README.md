@@ -6,7 +6,7 @@ I'm a passionate software developer with a love for creating innovative solution
 #### 🔧 Technologies & Tools
 ![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart&logoColor=0175C2)
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter)
-![Python](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase)
+![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js)
@@ -16,7 +16,7 @@ I'm a passionate software developer with a love for creating innovative solution
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000000?style=flat&logo=visual-studio-code)
+![Android-Studio](https://img.shields.io/badge/-Android20%Studio-000000?style=flat&logo=android-studio)
 
 #### 📈 GitHub Stats
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&count_private=true&theme=radical)
