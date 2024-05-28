@@ -20,9 +20,9 @@
 
  ### :woman_technologist: About Me :
 I am a Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
-- :telescope: I’m working as a Software Engineer and contributing to Flutter for building mobile applications.
+- :telescope: I’m a Software engineer specializing in mobile app development with flutter.
 
-- :zap: In my free time, I solve problems on Codeforces and read tech articles.
+- :zap: In my free time, I learn more about flutter and try to get better coding abilities.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Yossef_Ahmed-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/yossef-ahmed-abd-el-raheem-flutter-developer)
 
